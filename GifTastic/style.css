@@ -1,0 +1,64 @@
+body {
+	font-family: 'Times New Rome', sans-serif;
+	background: black;
+	color: black;
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+	background: gold;
+	border-radius: 24px;
+}
+
+p {
+	font-family: 'Times New Rome', monospace;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+
+
+h1 {
+	font-family: 'Times New Rome', monospace;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: 'Times New Rome', monospace;
+	color: white;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.best {
+	background: black;
+	border-radius: 12px;
+	color: white;
+	font-style: Times New Rome;
+	font-size: 15px;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 20px;
+
+}
+
+#movie-form {
+	text-align: right;
+}
+
+
+
+input#movie-input {
+	color: #000;
+}
+
+input#add-movie.btn,btn-deafult {
+	color: #000;
+}
